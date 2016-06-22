@@ -16,6 +16,7 @@
 
 
 *プログラムを記載する*
+
  インストールコマンドは `gem install hoge` です
  gem install hoge
 
