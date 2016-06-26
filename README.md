@@ -1,4 +1,5 @@
 # gababen 2016/06/22
+## マークダウン記法
 * 講義
    * 前回の復習
    * レポジトリについて
@@ -7,16 +8,34 @@
 
 ***
 
+* 表
+ * :は文字の表示位置を示す
 
-|講師|参加者|オプティム参加者|
-|:--|--:|:--:|
-|菅谷社長|佐大2年生|生徒6名|
-|古賀さん|佐大3年生|TA1名|
-|長沼さん|TA|　|
+|IoTプラットフォームサービス|リモートマネジメントサービス|サポートサービス|その他サービス|
+|:--------------------------:|:---------------------------:|:---------------:|:-------------:|
+|Optimal Biz|Optimal Remote|Optimal Diagnosis & Repair |パソコンソフト使い放題|農業×IT|
+|Cloud IoT OS|OPTiM Cafe|タブレット使い放題|optimal code|
+|mamoly|プレリモ|ビジネスソフト使い放題|optimal setup|
 
 
 *プログラムを記載する*
 
- インストールコマンドは `gem install hoge` です
- gem install hoge
+ * プログラム
+```
+
+***
+
+var number = 10;
+var a = 6;
+var b = 7;
+
+function add(num1, num2) {
+  var number = num1 + num2;
+  return number;
+}
+
+console.log(add(a,b));
+
+console.log(number);
+
 
