@@ -5,6 +5,7 @@
    * レポジトリについて
    * マークダウン記法
 
+[マークダウン記法](http://kojika17.com/2013/01/starting-markdown.html)
 
 ***
 
@@ -14,10 +15,10 @@
 |IoTプラットフォームサービス|リモートマネジメントサービス|サポートサービス|その他サービス|
 |:--------------------------:|:---------------------------:|:---------------:|:-------------:|
 |Optimal Biz|Optimal Remote|Optimal Diagnosis & Repair |パソコンソフト使い放題|農業×IT|
-|Cloud IoT OS|OPTiM Cafe|タブレット使い放題|optimal code|
-|mamoly|プレリモ|ビジネスソフト使い放題|optimal setup|
+|Cloud IoT OS|OPTiM Cafe|optimal code|タブレット使い放題|
+|mamoly|プレリモ|optimal setup|ビジネスソフト使い放題|
 
-
+***
 *プログラムを記載する*
 
  * プログラム
