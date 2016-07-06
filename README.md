@@ -40,6 +40,3 @@ console.log(add(a,b));
 console.log(number);
 
 2016/07/06追記しました！
-
-
-2016/07/06追記
