@@ -1,4 +1,4 @@
-# gababen 2016/06/22
+﻿# gababen 2016/06/22
 ## マークダウン記法
 * 講義
    * 前回の復習
@@ -38,5 +38,7 @@ function add(num1, num2) {
 console.log(add(a,b));
 
 console.log(number);
+
+2016/07/06追記しました！
 
 
